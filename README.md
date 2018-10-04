@@ -17,7 +17,7 @@ in [Visual Studio Code](https://github.com/Microsoft/vscode) to power the CSS, L
 
 ## Issues
 
-Please file issues concering `monaco-css` in the [`monaco-editor` repository](https://github.com/Microsoft/monaco-editor/issues).
+Please file issues concering `monaco-css` in the `monaco-editor` [repository](https://github.com/Microsoft/monaco-editor/issues).
 
 ## Installing
 
