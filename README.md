@@ -32,4 +32,4 @@ This npm module is bundled and distributed in the [monaco-editor](https://www.np
 * open `$/monaco-css/test/index.html` in your favorite browser.
 
 ## License
-[MIT](https://github.com/Microsoft/monaco-css/blob/master/LICENSE.md)
+Licensed under the [MIT](LICENSE.md) License.
